@@ -2,4 +2,4 @@
 
 print('jeden')
 
-#tutaj cos dopisze
+#tutaj cos dopisze hehe
